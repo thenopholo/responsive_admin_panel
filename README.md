@@ -1,12 +1,9 @@
 # Flutter Responsive Admin/Dashboard Template
+![App UI](/ui.png)
 
-## [Live Preview](https://abuanwar072.github.io/Flutter-Responsive-Admin-Panel-or-Dashboard/#/)
+The latest version of Flutter, version 2.*, now includes stable support for web development. I'm excited to introduce a Flutter-based Admin panel, also known as a dashboard UI. This dashboard template, available on GitHub, offers a comprehensive solution for managing the backend of your app. It includes various features such as charts, tables, and well-designed information cards.
 
-I've created a step-by-step video tutorial to guide you through the process of building this responsive admin panel. **[Watch it on YouTube](https://youtu.be/_uOgXpEHNbc)**
-
-Flutter V2.\* has officially introduced web support on its stable branch. Today, I'm excited to present a Flutter-based Admin panel, often referred to as a dashboard UI. This Flutter dashboard template, which you can find on GitHub, is a comprehensive solution for your app's backend needs. It comes with a wide array of features including charts, tables, and neatly designed info cards.
-
-This flutter dashboard library is versatile; it's tailored to work seamlessly on the Web, macOS app, tablets, and both Android and iOS phones. The principle 'code once, run everywhere' truly comes to life with this.
+This Flutter dashboard library is highly versatile and can be used on the web, macOS apps, tablets, as well as Android and iOS phones. It embodies the concept of "write once, run everywhere" by allowing you to write code that can be used across multiple platforms.
 
 **Packages we are using:**
 
@@ -21,5 +18,3 @@ This flutter dashboard library is versatile; it's tailored to work seamlessly on
 ### Responsive Admin Panel or Dashboard Final UI Preview
 
 ![Preview](/gif.gif)
-
-![App UI](/ui.png)
