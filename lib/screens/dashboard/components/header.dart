@@ -15,7 +15,7 @@ class Header extends StatelessWidget {
           'Dashboard',
           style: Theme.of(context).textTheme.titleLarge,
         ),
-        Spacer(),
+        Spacer(flex: 2),
         Expanded(
           child: SearchField(),
         ),
